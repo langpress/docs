@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/langpress/docs/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-![11/cover.png](https://logo.langpress.com/11/cover.png)
+![logo](https://logo.langpress.com/langpress-logo.png)
 
 + [Logo](https://logo.langpress.com/)
 
@@ -10,7 +10,7 @@ You can use the [editor on GitHub](https://github.com/langpress/docs/edit/master
 
 + [Blog](https://blog.langpress.com/)
 
-+ [www.promagen.com](https://www.langpress.com/)
++ [www.langpress.com](https://www.langpress.com/)
 
 
 + [Aplikacja frontendowa laczaca sie z api](https://app.langpress.com/)
